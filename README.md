@@ -2,6 +2,10 @@
 <h3 align="center">Undergraduate at SLIIT</h3>
 <br/><br/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka9D&label=Profile%20views&color=0e75b6&style=flat" alt="anushka9D" /> </p>
+
+<p align="left"> <img src="https://img.shields.io/twitter/follow/anushka9D?logo=twitter&style=for-the-badge" alt="anushka9D" /> </p>
+
 <h2>About Me</h2>
 
 <a target="_blank" align="center">
