@@ -28,7 +28,7 @@
 
 - 😄 Pronouns: **Anushka**
 
- 📄 Know about my experiences <a href="" target="blank">Resume</a>
+ 📄 Know about my experiences <a href="https://anushka9d.github.io/Anushka_Dilshan/" target="blank">Resume</a>
 <br/><br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
