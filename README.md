@@ -61,11 +61,20 @@
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anushka-dilshan-266077291" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/anushka-dilshan-266077291" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.facebook.com/anushka.dilshan.1272010" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" alt="facebook" height="50" width="50" /></a> 
+<a href="https://www.youtube.com/@CodeCamp_A" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png" alt="Youtube" height="50" width="50" /></a>
 <a href="https://www.instagram.com/anushka__dilshan/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <!--<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Medium.png" alt="hashnode" height="50" width="50" /></a>-->
 </p>
+
+### Github Trophies
+<p align="center">
+  <a href="https://github.com/anushka9D/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=anushka9D&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+  </a>
+</p>
+<br /> 
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
