@@ -65,7 +65,7 @@
 <a href="https://www.facebook.com/anushka.dilshan.1272010" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" alt="facebook" height="50" width="50" /></a> 
 <a href="https://www.youtube.com/@CodeCamp_A" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png" alt="Youtube" height="50" width="50" /></a>
 <a href="https://www.instagram.com/anushka__dilshan/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<!--<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Medium.png" alt="hashnode" height="50" width="50" /></a>-->
+<a href="https://medium.com/@anushkadilshan990" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Medium.png" alt="hashnode" height="50" width="50" /></a>
 </p>
 
 ### Github Trophies
