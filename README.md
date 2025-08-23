@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Anushka Dilshan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=Hello!+🙏🙌;+I'm+Anushka+Dilshan!+😎;+I'm+FullStack+Developer+👨‍💻;+Software+Engineering+Undergratuate+at+SLIIT+🎓;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=Hello!+🙏🙌;+I'm+Anushka+Dilshan!+😎;+I'm+FullStack+Developer+👨‍💻;+Software+Engineering+Undergratuate+at+SLIIT+🎓;" alt="Typing SVG" />
 </div>
 <img alt="Decorative animated line" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br/><br/>
